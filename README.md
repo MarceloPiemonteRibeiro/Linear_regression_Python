@@ -1,2 +1,2 @@
-# Linear_regression
+# Linear_regression_Python
 Linear regression examples 
