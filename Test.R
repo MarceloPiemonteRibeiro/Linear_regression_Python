@@ -20,3 +20,5 @@ plot(Age, Salaire, main="Scatterplot of Salaries w.r.t Ages", cex=1.5, pch=1) # 
 cor(Age, Salaire) # Pearson's correlation coefficient of Salaire with Age - quite low 0.12
 cor(Salaire, Age) # the same
 detach("AgeSal")
+
+# commit
